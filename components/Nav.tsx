@@ -16,7 +16,7 @@ export default async function Nav(){
     <nav className="flex-between w-full mb-4 pb-5 pt-3 bg-white sticky top-0 z-40">
         <Link href="/" className="flex gap-2">
             <Image src="https://images.ctfassets.net/oxmmme2a1mec/1cJlMiNlVUb0n1BAF3Z4e4/31c07deed5bd0a34ddd4d882c1bfca11/letter-p-256.png" alt="Portfolia Logo" width={30} height={30} className="object-contain" unoptimized={true} loader={() => "https://images.ctfassets.net/oxmmme2a1mec/1cJlMiNlVUb0n1BAF3Z4e4/31c07deed5bd0a34ddd4d882c1bfca11/letter-p-256.png"}/>
-            <p className="logo_text">ORTFOLIA</p>
+            <p className="logo_text">ORTFOLIO</p>
         </Link>
 
         {/* Desktop Navigation */}
