@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="flex w-full mb-0 pt-5 pb-5 pl-10 bg-slate-950 text-white font-satoshi">
       {/* Desktop */}
       <div className="sm:flex hidden md:flex-1">
-        <span className="flex mr-10 mt-7">&copy; D-Kolektiv, Inc. 2025 <br /><br />
+        <span className="flex mr-10 mt-7">&copy; D-Kolektiv, Inc. 2026 <br /><br />
         </span>
       </div>
         <div className="sm:flex hidden md:flex-grow-0">
@@ -21,7 +21,7 @@ const Footer = () => {
       {/* Mobile */}
       <div className="sm:hidden flex">
             <div className="w-full">
-              <span className="w-full">&copy; D-Kolektiv, Inc. 2025 <br /><br />
+              <span className="w-full">&copy; D-Kolektiv, Inc. 2026 <br /><br />
               </span>
 
             </div>
